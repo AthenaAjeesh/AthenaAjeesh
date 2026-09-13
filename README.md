@@ -55,25 +55,6 @@ I enjoy learning by actually building things, experimenting with code, and turni
 
 ---
 
-## 📌 Featured Project
-
-### 🎮 Snake Water Gun
-
-A simple Python game that I turned into a complete GitHub project, with a browser-based version built using **HTML, CSS and JavaScript**.
-
-**What I practiced:**
-
-* Python programming
-* Game logic
-* Randomization
-* JavaScript fundamentals
-* DOM interaction
-* HTML & CSS
-* Git & GitHub
-
-> One of my first projects — built while learning and experimenting.
-
----
 
 ## 🎯 My Learning Journey
 

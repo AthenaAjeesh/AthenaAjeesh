@@ -97,15 +97,11 @@ I'm focusing on understanding the fundamentals rather than just collecting techn
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Learning something new. Building something better.
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AthenaAjeesh\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AthenaAjeesh\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AthenaAjeesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
